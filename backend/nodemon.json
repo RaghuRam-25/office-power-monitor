@@ -1,0 +1,5 @@
+{
+  "watch": ["server.js", "models", "simulator", "bot"],
+  "ext": "js,json",
+  "ignore": ["node_modules", ".git", "frontend"]
+}

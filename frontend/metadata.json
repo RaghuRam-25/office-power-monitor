@@ -1,0 +1,6 @@
+{
+  "name": "Office Power Monitor",
+  "description": "A real-time dashboard for monitoring office electrical devices, room-by-room power consumption, active alerts, and an office floor plan layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
